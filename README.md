@@ -1,7 +1,12 @@
-# kulki 🟠🔵🟢
+# kulki / bubbles 🟠🔵🟢
 
-**Prosta gra w kulki 😄**
+**Simple game 😄**
 
-Kliknij *start* i sprawdź jaki wynik uda Ci się osiągnąć! 😀
+Just click *start* and enjoy! 😀
 
-Gra stworzona w ramach projektu szkolnego. 🏫
+This game was a school project 🏫
+
+##Used technology
+-HTML
+-CSS
+-TypeScript
