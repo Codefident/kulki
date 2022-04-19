@@ -1,0 +1,30 @@
+.field{
+    color: white;
+    width: 50px;
+    height: 50px;
+    border: "none";
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+
+.darkerField{
+    background-color: #333333;
+}
+
+.lighterField{
+    background-color: #666666;
+}
+
+.bubble{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    pointer-events: none;
+}
+
+.p, .s, .m{
+    background-color: rgb(191, 191, 191);
+}
