@@ -10,3 +10,4 @@ This game was a school project 🏫
 - HTML
 - CSS
 - TypeScript
+- webpack
