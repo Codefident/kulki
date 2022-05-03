@@ -6,7 +6,7 @@ Just click *start* and enjoy! 😀
 
 This game was a school project 🏫
 
-## Used technology
+## Technology used
 - HTML
 - CSS
 - TypeScript
